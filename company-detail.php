@@ -1,0 +1,1203 @@
+<!-- All Links -->
+<?php include'layout/all-link.php'; ?>
+
+<!-- Header -->
+<?php include'layout/header.php'; ?>
+
+
+<!-- ------------------ START BANNER ---------------- -->
+    <section>
+        <div class="company-list">
+            <div class="container pt-4">
+                <div class="row">
+                    <!-- LEFT SIDE -->
+                    <div class="col-md-3">
+
+                        <!-- SEARCH CITY -->
+                        <div class="search-location">
+                            <div class="d-flex justify-content-between">
+                                <p class="cnt-title">Location</p>
+                            </div>
+                            <div class="search-input mt-2">
+                                <div class="cVPfZv">
+                                    <span class="inpIconlft">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="#404D57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                            <circle cx="12" cy="10" r="3"></circle>
+                                        </svg>
+                                    </span>
+                                    <input type="text" placeholder="Search City" class="placeholder" value="">
+                                </div>
+                            </div>
+                            <div class="select-city select-radio-ft mt-3 pt-1">
+                                <ul class="select-city-list">
+                                    <li><p class="city-name"><a href="catelogue.php" class="text-decoration-none">Mumbai</a></p></li>
+                                    <li><p class="city-name"><a href="catelogue.php" class="text-decoration-none">Delhi</a></p></li>
+                                    <li><p class="city-name"><a href="catelogue.php" class="text-decoration-none">New Delhi</a></p></li>
+                                    <li><p class="city-name"><a href="catelogue.php" class="text-decoration-none">Ahmedabad</a></p></li>
+                                    <li><p class="city-name"><a href="catelogue.php" class="text-decoration-none">Bengaluru</a></p></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- INVESTMENT RANGE -->
+                        <div class="drop-down">
+                            <div class="d-flex align-items-center justify-content-between mb-2">
+                                <p class="cnt-title">Investment Range</p>
+                            </div>
+                            <div class="range-cont">
+                                <a href="" class="mb-1 range-text">Rs. 5 Cr. and above</a>
+                                <a href="" class="mb-1 range-text">Rs. 2 Cr. - Rs. 5 Cr.</a>
+                                <a href="" class="mb-1 range-text">Rs. 1 Cr. - Rs. 2 Cr.</a>
+                                <a href="" class="mb-1 range-text">Rs. 50 Lac. - Rs. 99 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 30 Lac. - Rs. 50 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 20 Lac. - Rs. 30 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 10 Lac. - Rs. 20 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 5 Lac. - Rs. 10 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 2 Lac. - Rs. 5 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 1 Lac. - Rs. 2 Lac.</a>
+                                <a href="" class="mb-1 range-text">Rs. 50 K. - Rs. 99 K.</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- RIGHT SIDE -->
+                    <div class="col-md-9 catelogue-header">
+                        <!-- TOP LINKS -->
+                        <div class="d-none d-md-block">
+                            <ul class="gZuWyf">
+                                <li class="bd-list">
+                                    <a target="_self" href="distributer.php">Distributors</a>
+                                    <i class="fas fa-chevron-right"></i>
+                                </li>
+                                <li class="bd-list">
+                                    <a target="_self" href="">Industrial Supplies</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!-- COMPANY NAME -->
+                        <div class="companyName">
+                            <h1 class="company-name">Industrial Supplies Distributors 
+                                <span>(1838 Results)</span>
+                            </h1>
+                        </div>
+
+                        <!-- COMPANY BRIEF -->
+                        <p class="fDfxEg mt-2 mb-4">Machines and tools are needed in every economy for the development of the infrastructure. Distributorship opportunity for industrial supplies and equipment is in demand since the invention of machines. It's been the industry to earn a handsome margin. Associate yourself with leading companies manufacturing industrial safety products, industrial tools, cleaning equipment, industrial ventilators, fasteners, clips, clamps, coils, cutting tools, grinding wheels, welding electrodes, hydraulic cylinders, oil seals, etc. by taking distributorship of any of the products. You can even get the chance of working in multi-purpose projects like residential buildings, sports complexes and special economic zones. Become a distributor &amp; dealer of bolts, screws, springs, fixtures, jigs, cutting blades, hydraulic tools, drilling bits, cutting saw, coupling, abrasives, pneumatic tools, v belts, washer and such more. GetDistributors has a big list of companies looking for distributors for industrial equipments. Get ready to search.</p>
+
+                        <!-- PRODUCT CATEGORY -->
+                        <div class="col-12 category-list">
+                            <div class="row ">
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3 col-6 mb-3">
+                                    <div class="sc-86fdce7d-0 dyFiYS">
+                                        <a class="cat-link d-flex" target="_self" href="">
+                                            <div class="cat-img-cnt">
+                                                <img alt="Rubber Rubber Products" width="42" height="42" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fcategoryimg%2Fv1%2F1%2FRubber-Rubber-Products-227.jpg&w=48&q=75">
+                                            </div>
+                                            <div class="outer-cnt">
+                                                <p class="hqKuff Body5R cat-text">Rubber Rubber Products</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-12">
+                                    <div class="mt-2 d-flex justify-content-center justify-content-md-end">
+                                        <div class="hcjGwh">
+                                            <button class="load-more">
+                                                <p class="csVBQG">Load More</p> 
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+
+                            </div>
+                        </div>
+
+                        <!-- COMPANY ADVERTISEMENT -->
+                        <div class="company-add mb-3">
+                            <div class="d-flex top-cnt">
+                                <a class="d-flex" target="_self" href="catelogue.php">
+                                    <div class="pc-image d-flex align-items-center justify-content-center">
+                                        <img alt="product-image" width="172" height="134" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGLOBAL-WHEELS-v1-182265.jpeg&w=384&q=75">
+                                    </div>
+                                </a>
+                                <div class="right-section">
+                                    <div class="d-flex">
+                                        <div class="gEFmXG">
+                                            <span class="chips">Plastics Products</span>
+                                        </div>
+                                        <div class="d-none d-md-block ml-md-3">
+                                            <img alt="premium brand" width="68" height="24" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Fpremium-brand-1.png&w=96&q=75">
+                                        </div>
+                                    </div>
+                                    <a class="coyname-link text-decoration-none" target="_self" href="catelogue.php">
+                                        <span class="jTyaQM">Global Wheels</span>
+                                    </a>
+                                    <div class="dist-heading d-none d-md-flex align-items-md-center mb-2">
+                                        <div>
+                                            <p class="dLHKWi">Distributors of</p>
+                                        </div>
+                                        <p class="UhfhD">Hospital Wheels, Stopper Caster Wheels, HDPE Sheet, Nylon Wheels, Cast Iron Wheels, Furniture Wheels</p>
+                                    </div>
+                                    
+                                    <div class="dist-heading d-flex align-items-center mb-2">
+                                        <div>
+                                            <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                            <img alt="money" width="20" height="20" class="d-md-none" src="assets/images/icons/money.svg">
+                                        </div>
+                                        <p class="UhfhD">2.00 Lac - 5.00 Lac</p>
+                                    </div>
+
+                                    <div class="dist-heading d-flex align-items-center">
+                                        <div>
+                                            <p class="dLHKWi d-none d-md-block">Founded In</p>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none">
+                                                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                <line x1="3" y1="10" x2="21" y2="10"></line>
+                                            </svg>
+                                        </div>
+                                        <p class="UhfhD">2016</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-buttons">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <a href="tel:" class="view-details">
+                                        <span class="UhfhD d-flex align-items-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                            </svg>08045812609
+                                        </span>
+                                    </a>
+                                    <div class="hcjGwh">
+                                        <button class="load-more d-flex align-items-center justify-content-center" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2 font-type">
+                                                <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                            </svg>
+                                            <p class="csVBQG">Send Enquiry</p> 
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- COMPANY LIST -->
+                        <div class="col-12 custom-width">
+                            <div class="row">
+                                <div class="col-md-4 col-6 mb-3 mb-md-3">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="catelogue.php">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="catelogue.php">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="https://www.getdistributors.com/credit_reports/show_ts_gd.php?profile_id=38199938" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FORM SECTION -->
+                        <div class="col-12 mb-5 custom-width">
+                            <div class="company-form">
+                                <div class="eExjwc askForm">
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <div class="mainHeading">What are you looking ?</div>
+                                            <div class="subTitle">Fast Track Your Business</div>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex bwmdfO company-top mb-2">
+                                        <p class="fDTEWU fran-active bg-one" id="dist_cate">Distributor</p>
+                                        <p class="fDTEWU bg-one ml-3"id="fran_cate">Franchise</p>
+                                    </div>
+                                    <form action="#" class="homeForm">
+                                        <div id="distribute_form_cate">
+                                            <div class="form-check-inline">
+                                                <input type="radio" class="form-check-input radioLabCircle" name="optradio">
+                                                <label class="form-check-label">I am looking for distributor</label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <input type="radio" class="form-check-input radioLabCircle" name="optradio">
+                                                <label class="form-check-label">I want to become a distributor</label>
+                                            </div>
+                                        </div>
+                                        <div id="franchised_form_cate">
+                                            <div class="form-check-inline">
+                                                <input type="radio" class="form-check-input radioLabCircle" name="optradio">
+                                                <label class="form-check-label">I am looking for franchise</label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <input type="radio" class="form-check-input radioLabCircle" name="optradio">
+                                                <label class="form-check-label">I want to become a franchise</label>
+                                            </div>
+                                        </div>
+                                        <div class="row form-input mt-3">
+                                            <div class="col-md-6 ">
+                                                <div class="form-group input-group-lg">
+                                                    <input type="text" class="form-control" placeholder="Email Address">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group input-group-lg">
+                                                    <input type="text" class="form-control" placeholder="Mobile Number">
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group input-group-lg">
+                                                   <input type="text" class="form-control" placeholder="Enter Product Name">
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <textarea class="form-control" rows="5" placeholder="Type your requirment"></textarea>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 form-btn">
+                                                <button type="submit" class="submit-btn">Submit</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- COMPANY LIST -->
+                        <div class="col-12">
+                            <div class="row">
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 col-6 mb-3 mb-md-3 custom-width">
+                                    <div class="cUmIIR">
+                                        <div class="imgCnt">
+                                            <a target="_self" href="">
+                                                <img alt="Apparel Fashion" width="282" height="180" class="pr-image" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FKewal-Kiran-Clothing-Limited-v1-194221.jpeg&w=384&q=75">
+                                            </a>
+                                        </div>
+
+                                        <div class="info">
+                                            <div class="coKkSn">
+                                                <span class="chips">Apparel Fashion</span>
+                                            </div>
+                                            <a class="coy-name-link text-decoration-none text-dark" target="_self" href="">
+                                                <h3 class="moHeading mb-1">Kewal Kiran Clothing Limited</h3>
+                                            </a>
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block" color="#68778D">Investment range</p>
+                                                    <img alt="money" width="20" height="20" class="d-md-none mr-2" src="/images/icons/money.svg" style="color: transparent;">
+                                                </div>
+                                                <p class="dXVnnR">5.00 Lac - 10.00 Lac </p>
+                                            </div>
+
+                                            <div class="d-flex align-items-center justify-content-start justify-content-md-between">
+                                                <div>
+                                                    <p class="dLHKWi d-none d-md-block">Established</p>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-md-none mr-2">
+                                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                                    </svg>
+                                                </div>
+                                                <p class="dXVnnR">1981</p>
+                                            </div>
+
+                                            <div>
+                                                <p class="fDTEWU">Distributors of</p>
+                                                <p class="dXVnnR">Jeans , T-shirts , Shirts , Undergarments </p>
+                                            </div>
+
+                                            <div class="mt-2 pt-1 d-none d-md-block">
+                                                <a href="" target="_blank"> 
+                                                    <img alt="Trusted" width="80" height="20" src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Flisting-trusted.png&w=96&q=75">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <div class="card--btm">
+                                            <button class="gOTTCN" data-toggle="modal" data-target="#apply-distributer-Modal">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                                                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                                </svg>
+                                                <p class="dXVnnR"> Send Inquiry</p>
+                                            </button>
+                                            <div class="viewDtl call-no-btn mt-2 text14 fW600 text-center num--height">
+                                                <a href="tel:08037405586" class="no-decoration call-text"> 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                                                    </svg>08037405586
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- LOADMORE BUTTON -->
+                        <div class="pagination-cont d-flex justify-content-center mt-3 mb-5">
+                            <button class="next-button">
+                                <div class="dLfbWk">Show More Results</div>
+                            </button>
+                        </div>    
+    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<?php include'layout/modals.php'; ?>
+
+<?php include'layout/footer.php'; ?>
+
+<?php include'layout/footer-link.php'; ?>
+
+<script>
+    let dist_cate = document.getElementById('dist_cate');
+    let fran_cate = document.getElementById('fran_cate');
+    let dist_form_cate = document.getElementById('distribute_form_cate');
+    let fran_form_cate = document.getElementById('franchised_form_cate');
+
+    dist_cate.addEventListener("click", function () {
+        dist_form_cate.style.display = 'block';
+        fran_form_cate.style.display = 'none';
+
+        dist_cate.classList.add('fran-active');
+        fran_cate.classList.remove('fran-active');
+    });
+
+    fran_cate.addEventListener("click", function () {
+        dist_form_cate.style.display = 'none';
+        fran_form_cate.style.display = 'block';
+
+        fran_cate.classList.add('fran-active');
+        dist_cate.classList.remove('fran-active');
+    });
+
+</script>

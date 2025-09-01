@@ -1,0 +1,874 @@
+<!-- All Links -->
+<?php include'layout/all-link.php'; ?>
+
+<!-- Header -->
+<?php include'layout/header.php'; ?>
+
+<!-- Home Banner -->
+<?php include'layout/home-banner.php'; ?>
+
+<!-- Distributed Opportunities -->
+<?php include'design-layout/distributer-opportunites.php'; ?>
+
+<!-- ------------------ START DISCOVER DISTRIBUTED OPPORTUNITIES --------------- -->
+    <section>
+        <div class="homeDiscover" id="recently-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="head-style mb-0">Discover the Latest Distributorship Opportunities</h2>
+                    </div>
+
+                    <div class="col-12 col-md-3 mb-md-0">
+                        <div class="topFistCard mb-3 d-none d-md-flex">Recently<br />Added<br />Distributorships</div>
+                    </div>
+
+                    <div class="col-12 col-md-9 mb-md-0">
+                        <div class="row" id="distributer-opportunities" style="margin-top: 24px;">
+                            <!-- slide 1 -->
+                            <div class="col-12 col-md-4">
+                                <div class="fiiczY">
+                                    <div class="customerDtls d-flex">
+                                        <div class="customerImg">
+                                            <img alt="Home Supplies" width="56" height="56" style="color:transparent"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FAhlada-Engineers-Pvt-Ltd--v1-223748.jpeg&w=64&q=75" />
+                                        </div>
+                                        <div class="customerInfo">
+                                            <span class="chips">Construction & Real Estate</span>
+                                            <a class="no-decoration" target="_self" href="catelogue.php">
+                                                <div class="tpHeading">Ahlada Engineers Limited</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="coutomerCpDetl">
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="jhScip">₹ 25.00K-50.00K</p>
+                                        </div>
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Founded in</p>
+                                            <p class="jTiiQM">1997</p>
+                                        </div>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <button class="emPAHb">
+                                                <p class="cttRju">View </p>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                                    class="ml-1 mt-1">
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- slide 2 -->
+                            <div class="col-12 col-md-4">
+                                <div class="fiiczY">
+                                    <div class="customerDtls d-flex">
+                                        <div class="customerImg">
+                                            <img alt="Home Supplies" width="56" height="56" style="color:transparent"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FAhlada-Engineers-Pvt-Ltd--v1-223748.jpeg&w=64&q=75" />
+                                        </div>
+                                        <div class="customerInfo">
+                                            <span class="chips">Construction & Real Estate</span>
+                                            <a class="no-decoration" target="_self" href="catelogue.php">
+                                                <div class="tpHeading">Ahlada Engineers Limited</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="coutomerCpDetl">
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="jhScip">₹ 25.00K-50.00K</p>
+                                        </div>
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Founded in</p>
+                                            <p class="jTiiQM">1997</p>
+                                        </div>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <button class="emPAHb">
+                                                <p class="cttRju">View </p>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                                    class="ml-1 mt-1">
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- slide 3 -->
+                            <div class="col-12 col-md-4">
+                                <div class="fiiczY">
+                                    <div class="customerDtls d-flex">
+                                        <div class="customerImg">
+                                            <img alt="Home Supplies" width="56" height="56" style="color:transparent"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FAhlada-Engineers-Pvt-Ltd--v1-223748.jpeg&w=64&q=75" />
+                                        </div>
+                                        <div class="customerInfo">
+                                            <span class="chips">Construction & Real Estate</span>
+                                            <a class="no-decoration" target="_self" href="catelogue.php">
+                                                <div class="tpHeading">Ahlada Engineers Limited</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="coutomerCpDetl">
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="jhScip">₹ 25.00K-50.00K</p>
+                                        </div>
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Founded in</p>
+                                            <p class="jTiiQM">1997</p>
+                                        </div>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <button class="emPAHb">
+                                                <p class="cttRju">View </p>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                                    class="ml-1 mt-1">
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- slide 4 -->
+                            <div class="col-12 col-md-4">
+                                <div class="fiiczY">
+                                    <div class="customerDtls d-flex">
+                                        <div class="customerImg">
+                                            <img alt="Home Supplies" width="56" height="56" style="color:transparent"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FAhlada-Engineers-Pvt-Ltd--v1-223748.jpeg&w=64&q=75" />
+                                        </div>
+                                        <div class="customerInfo">
+                                            <span class="chips">Construction & Real Estate</span>
+                                            <a class="no-decoration" target="_self" href="catelogue.php">
+                                                <div class="tpHeading">Ahlada Engineers Limited</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="coutomerCpDetl">
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="jhScip">₹ 25.00K-50.00K</p>
+                                        </div>
+                                        <div class="d-flex align-items-center justify-content-between mb-2">
+                                            <p class="fDTEWU">Founded in</p>
+                                            <p class="jTiiQM">1997</p>
+                                        </div>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <button class="emPAHb">
+                                                <p class="cttRju">View </p>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                                    class="ml-1 mt-1">
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                                </svg>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START BRANDS  --------------- -->
+    <section>
+        <div class="exclusiveBrand" id="exclusive-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="head-style">Exclusive Brand</h2>
+                    </div>
+                    <div class="col-12">
+                        <div class="overflow-cont">
+                            <div class="ebrand-cont">
+                                <div class="jsXDjG">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            class="ebrand-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <img width="54" height="54" style="color:transparent"
+                                                    src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGOPALJEE-DAIRY-FOODS-PRIVATE-LIMITED-v1-48910.jpeg&w=64&q=75" />
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <div class="gEFmXG">
+                                                    <span class="chips">Food &amp; Beverage</span>
+                                                </div>
+                                            </a>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <p class="ebrand-title">Ananda</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="dmNqaO">1.00Lac-4.00Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ebrand-cont">
+                                <div class="jsXDjG">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            class="ebrand-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <img width="54" height="54" style="color:transparent"
+                                                    src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGOPALJEE-DAIRY-FOODS-PRIVATE-LIMITED-v1-48910.jpeg&w=64&q=75" />
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <div class="gEFmXG">
+                                                    <span class="chips">Food &amp; Beverage</span>
+                                                </div>
+                                            </a>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <p class="ebrand-title">Ananda</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="dmNqaO">1.00Lac-4.00Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ebrand-cont">
+                                <div class="jsXDjG">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            class="ebrand-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                            <a class="ebrand-link" target="_self" href="#">
+                                                <img width="54" height="54" style="color:transparent"
+                                                    src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGOPALJEE-DAIRY-FOODS-PRIVATE-LIMITED-v1-48910.jpeg&w=64&q=75" />
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <div class="gEFmXG">
+                                                    <span class="chips">Food &amp; Beverage</span>
+                                                </div>
+                                            </a>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <p class="ebrand-title">Ananda</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="dmNqaO">1.00Lac-4.00Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ebrand-cont">
+                                <div class="jsXDjG">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            class="ebrand-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <img width="54" height="54" style="color:transparent"
+                                                    src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGOPALJEE-DAIRY-FOODS-PRIVATE-LIMITED-v1-48910.jpeg&w=64&q=75" />
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <div class="gEFmXG">
+                                                    <span class="chips">Food &amp; Beverage</span>
+                                                </div>
+                                            </a>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <p class="ebrand-title">Ananda</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="dmNqaO">1.00Lac-4.00Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ebrand-cont">
+                                <div class="jsXDjG">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            class="ebrand-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                            <a class="ebrand-link" target="_self" href="#">
+                                                <img width="54" height="54" style="color:transparent"
+                                                    src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGOPALJEE-DAIRY-FOODS-PRIVATE-LIMITED-v1-48910.jpeg&w=64&q=75" />
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <div class="gEFmXG">
+                                                    <span class="chips">Food &amp; Beverage</span>
+                                                </div>
+                                            </a>
+                                            <a class="ebrand-link" target="_self" href="catelogue.php">
+                                                <p class="ebrand-title">Ananda</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex justify-content-between">
+                                        <div>
+                                            <p class="fDTEWU">Investment range</p>
+                                            <p class="dmNqaO">1.00Lac-4.00Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Top Trending Categories -->
+<?php include'design-layout/top-treanding-category.php'; ?>
+
+
+<!-- Ask Questions -->
+<?php include'design-layout/ask-question.php'; ?>
+
+<!-- ------------------ START FARANCHISE OPPORTUNITES --------------- -->
+    <section>
+        <div class="opportunities">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="gkVAXb mt-3 mt-md-5 mb-5">
+                            <h2 class="h2 mb-3">Featured Franchise Opportunities</h2>
+                            <div class="featured-row">
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="catelogue.php">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="catelogue.php">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="catelogue.php">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="#">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="catelogue.php">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+
+                                <div class="featured-f-cont">
+                                    <div class="imgCnt">
+                                        <a class="link-normal" target="_self" href="catelogue.php">
+                                            <img alt="brand name" width="180" height="70"
+                                                src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGanesh-Foods-v7-145450.jpeg&w=256&q=75" />
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <span class="chips">Food Beverage</span>
+                                        <a class="no-decoration" target="_self" href="catelogue.php">
+                                            <h3 class="fcHeading">Ganesh Foods</h3>
+                                        </a>
+                                        <p class="fcPara text14 fW400">Investment Required</p>
+                                        <div class="fcSubHeading text14 fW500">₹ 10.0 Lac</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START DISTRIBUTER INQUITIES --------------- -->
+    <section>
+        <div class="DistributerInquities">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="head-style mb-3">Discover Distributors' Inquiries</h2>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-3 mb-2 pb-1 custom-margin">
+                        <div class="fuvZPy">
+                            <div class="d-flex">
+                                <div class="bd-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                    <span class="s-letter">M</span>
+                                </div>
+                                <div>
+                                    <div class="coKkSn">
+                                        <span class="chips">Pharmaceuticals</span>
+                                    </div>
+                                    <p class="bd-title-text">Me***Me</p>
+                                </div>
+                                <span class="gd-assured-image">
+                                    <img alt="Gd Assured" width="24" height="24"
+                                        src="assets/images/icons/gd-assured.svg" />
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="mr-2">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                <p class="mb-2 overflow_1 mt-2" color="#323A43">Karimnagar,
+                                    Telangana</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between">
+                                <p color="#68778D" class="fDTEWU d-none d-md-block">Investment capacity</p>
+                                <img alt="money" width="18" height="18" class="d-block d-md-none"
+                                    src="assets/images/money.jpg" />
+                                <p color="#323A43" class="dmNqaO">₹ 2 Lac 3 Lac</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between mb-2 pb-1">
+                                <p color="#68778D" class="fDTEWU Body4R d-none d-md-block">Experience</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="d-block d-md-none">
+                                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                                </svg>
+                                <p color="#323A43" class="dmNqaO">15 years</p>
+                            </div>
+                            <div class="mb-2 pb-1">
+                                <p color="#68778D" class="line-brk">iwanttogetdistributorship</p>
+                                <div class="send-btn mt-3" data-toggle="modal" data-target="#send-proposal-Modal">
+                                    <button class="joNwBI d-flex align-items-center">
+                                        <p class="sc-8378ab75-15 dYTPbA Body3R mr-1">Send Proposal</p>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round">
+                                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                                            <polyline points="12 5 19 12 12 19"></polyline>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-4 col-lg-3 mb-2 pb-1 custom-margin">
+                        <div class="fuvZPy">
+                            <div class="d-flex">
+                                <div class="bd-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                    <span class="s-letter">M</span>
+                                </div>
+                                <div>
+                                    <div class="coKkSn">
+                                        <span class="chips">Pharmaceuticals</span>
+                                    </div>
+                                    <p class="bd-title-text">Me***Me</p>
+                                </div>
+                                <span class="gd-assured-image">
+                                    <img alt="Gd Assured" width="24" height="24"
+                                        src="assets/images/icons/gd-assured.svg" />
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="mr-2">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                <p class="mb-2 overflow_1 mt-2" color="#323A43">Karimnagar,
+                                    Telangana</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between">
+                                <p color="#68778D" class="fDTEWU d-none d-md-block">Investment capacity</p>
+                                <img alt="money" width="18" height="18" class="d-block d-md-none"
+                                    src="assets/images/money.jpg" />
+                                <p color="#323A43" class="dmNqaO">₹ 2 Lac 3 Lac</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between mb-2 pb-1">
+                                <p color="#68778D" class="fDTEWU Body4R d-none d-md-block">Experience</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="d-block d-md-none">
+                                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                                </svg>
+                                <p color="#323A43" class="dmNqaO">15 years</p>
+                            </div>
+                            <div class="mb-2 pb-1">
+                                <p color="#68778D" class="line-brk">iwanttogetdistributorship</p>
+                               <div class="send-btn mt-3" data-toggle="modal" data-target="#send-proposal-Modal">
+                                    <button class="joNwBI d-flex align-items-center">
+                                        <p class="sc-8378ab75-15 dYTPbA Body3R mr-1">Send Proposal</p>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round">
+                                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                                            <polyline points="12 5 19 12 12 19"></polyline>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-4 col-lg-3 mb-2 pb-1 custom-margin">
+                        <div class="fuvZPy">
+                            <div class="d-flex">
+                                <div class="bd-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                    <span class="s-letter">M</span>
+                                </div>
+                                <div>
+                                    <div class="coKkSn">
+                                        <span class="chips">Pharmaceuticals</span>
+                                    </div>
+                                    <p class="bd-title-text">Me***Me</p>
+                                </div>
+                                <span class="gd-assured-image">
+                                    <img alt="Gd Assured" width="24" height="24"
+                                        src="assets/images/icons/gd-assured.svg" />
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="mr-2">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                <p class="mb-2 overflow_1 mt-2" color="#323A43">Karimnagar,
+                                    Telangana</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between">
+                                <p color="#68778D" class="fDTEWU d-none d-md-block">Investment capacity</p>
+                                <img alt="money" width="18" height="18" class="d-block d-md-none"
+                                    src="assets/images/money.jpg" />
+                                <p color="#323A43" class="dmNqaO">₹ 2 Lac 3 Lac</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between mb-2 pb-1">
+                                <p color="#68778D" class="fDTEWU Body4R d-none d-md-block">Experience</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="d-block d-md-none">
+                                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                                </svg>
+                                <p color="#323A43" class="dmNqaO">15 years</p>
+                            </div>
+                            <div class="mb-2 pb-1">
+                                <p color="#68778D" class="line-brk">iwanttogetdistributorship</p>
+                               <div class="send-btn mt-3" data-toggle="modal" data-target="#send-proposal-Modal">
+                                    <button class="joNwBI d-flex align-items-center">
+                                        <p class="sc-8378ab75-15 dYTPbA Body3R mr-1">Send Proposal</p>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round">
+                                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                                            <polyline points="12 5 19 12 12 19"></polyline>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-4 col-lg-3 mb-2 pb-1 custom-margin">
+                        <div class="fuvZPy">
+                            <div class="d-flex">
+                                <div class="bd-img d-flex align-items-center justify-content-center mr-2 pr-1">
+                                    <span class="s-letter">M</span>
+                                </div>
+                                <div>
+                                    <div class="coKkSn">
+                                        <span class="chips">Pharmaceuticals</span>
+                                    </div>
+                                    <p class="bd-title-text">Me***Me</p>
+                                </div>
+                                <span class="gd-assured-image">
+                                    <img alt="Gd Assured" width="24" height="24"
+                                        src="assets/images/icons/gd-assured.svg" />
+                                </span>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="mr-2">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                <p class="mb-2 overflow_1 mt-2" color="#323A43">Karimnagar,
+                                    Telangana</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between">
+                                <p color="#68778D" class="fDTEWU d-none d-md-block">Investment capacity</p>
+                                <img alt="money" width="18" height="18" class="d-block d-md-none"
+                                    src="assets/images/money.jpg" />
+                                <p color="#323A43" class="dmNqaO">₹ 2 Lac 3 Lac</p>
+                            </div>
+                            <div class="d-flex align-items-center justify-content-between mb-2 pb-1">
+                                <p color="#68778D" class="fDTEWU Body4R d-none d-md-block">Experience</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="d-block d-md-none">
+                                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                                </svg>
+                                <p color="#323A43" class="dmNqaO">15 years</p>
+                            </div>
+                            <div class="mb-2 pb-1">
+                                <p color="#68778D" class="line-brk">iwanttogetdistributorship</p>
+                               <div class="send-btn mt-3" data-toggle="modal" data-target="#send-proposal-Modal">
+                                    <button class="joNwBI d-flex align-items-center">
+                                        <p class="sc-8378ab75-15 dYTPbA Body3R mr-1">Send Proposal</p>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                            stroke-linecap="round" stroke-linejoin="round">
+                                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                                            <polyline points="12 5 19 12 12 19"></polyline>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START SUCCESS STORIES --------------- -->
+    <section>
+        <div class="successStpries">
+            <div class="container mt-4 mb-4 pb-2">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="head-style mb-1">Success Stories</h2>
+                        <p class="beaTMN">Our clients testimonials speak volumes of satisfaction</p>
+                    </div>
+                </div>
+
+                <div class="row d-flex mt-4" id="succes_stories">
+                    <div class="col-6 col-md-4">
+                            <div class="jHTikX">
+                                <a class="link-normal" target="_self" href="catelogue.php">
+                                    <div class="d-flex align-items-center mb-2 ">
+                                        <img width="56" height="56" class="owner-img"
+                                            src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ftestimony_pics%2Fver1%2F18%2F52967.jpg&w=64&q=75" />
+                                        <div class="ml-2 pl-1">
+                                            <p class="dLjvDu">General Manager</p>
+                                            <p class="mb-overflow">Greensense Energy Systems Pvt. Ltd.</p>
+                                        </div>
+                                    </div>
+                                    <p class="overflow-content">I am extremely satisfied with the services provid by
+                                        GetDistributors. Since I joined them, I have received a good number of
+                                        inquiries. They have exceeded my expectations and provided exceptional service
+                                        so far. I am pleased to be a part of their network. If you want to take your
+                                        business to the next level, this tool is your bes bet. It will help you scale
+                                        your business and achieve new heights of success.</p>
+                                    <div class="d-flex align-items-center mt-3">
+                                        <span
+                                            class="first-letter d-flex align-items-center justify-content-center">M</span>
+                                        <p class="ml-2 owner-ovrflow">Mr. Subhash Gangadhar Chandane</p>
+                                    </div>
+                                    <span class="quotes-img">
+                                        <img alt="quotes" loading="lazy" width="54" height="40"
+                                            src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fdummy%2Fdbl-quotes.png&w=64&q=75" />
+                                    </span>
+                                </a>
+                            </div>
+                    </div>
+
+                    <div class="col-6 col-md-4">
+                            <div class="jHTikX">
+                                <a class="link-normal" target="_self" href="catelogue.php">
+                                    <div class="d-flex align-items-center mb-2 ">
+                                        <img width="56" height="56" class="owner-img"
+                                            src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ftestimony_pics%2Fver1%2F18%2F52967.jpg&w=64&q=75" />
+                                        <div class="ml-2 pl-1">
+                                            <p class="dLjvDu">General Manager</p>
+                                            <p class="mb-overflow">Greensense Energy Systems Pvt. Ltd.</p>
+                                        </div>
+                                    </div>
+                                    <p class="overflow-content">I am extremely satisfied with the services provid by
+                                        GetDistributors. Since I joined them, I have received a good number of
+                                        inquiries. They have exceeded my expectations and provided exceptional service
+                                        so far. I am pleased to be a part of their network. If you want to take your
+                                        business to the next level, this tool is your bes bet. It will help you scale
+                                        your business and achieve new heights of success.</p>
+                                    <div class="d-flex align-items-center mt-3">
+                                        <span
+                                            class="first-letter d-flex align-items-center justify-content-center">M</span>
+                                        <p class="ml-2 owner-ovrflow">Mr. Subhash Gangadhar Chandane</p>
+                                    </div>
+                                    <span class="quotes-img">
+                                        <img alt="quotes" loading="lazy" width="54" height="40"
+                                            src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fdummy%2Fdbl-quotes.png&w=64&q=75" />
+                                    </span>
+                                </a>
+                            </div>
+                    </div>
+
+                    <div class="col-6 col-md-4">
+                            <div class="jHTikX">
+                                <a class="link-normal" target="_self" href="catelogue.php">
+                                    <div class="d-flex align-items-center mb-2 ">
+                                        <img width="56" height="56" class="owner-img"
+                                            src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ftestimony_pics%2Fver1%2F18%2F52967.jpg&w=64&q=75" />
+                                        <div class="ml-2 pl-1">
+                                            <p class="dLjvDu">General Manager</p>
+                                            <p class="mb-overflow">Greensense Energy Systems Pvt. Ltd.</p>
+                                        </div>
+                                    </div>
+                                    <p class="overflow-content">I am extremely satisfied with the services provid by
+                                        GetDistributors. Since I joined them, I have received a good number of
+                                        inquiries. They have exceeded my expectations and provided exceptional service
+                                        so far. I am pleased to be a part of their network. If you want to take your
+                                        business to the next level, this tool is your bes bet. It will help you scale
+                                        your business and achieve new heights of success.</p>
+                                    <div class="d-flex align-items-center mt-3">
+                                        <span
+                                            class="first-letter d-flex align-items-center justify-content-center">M</span>
+                                        <p class="ml-2 owner-ovrflow">Mr. Subhash Gangadhar Chandane</p>
+                                    </div>
+                                    <span class="quotes-img">
+                                        <img alt="quotes" loading="lazy" width="54" height="40"
+                                            src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fdummy%2Fdbl-quotes.png&w=64&q=75" />
+                                    </span>
+                                </a>
+                            </div>
+                    </div>
+
+                    <div class="col-6 col-md-4">
+                            <div class="jHTikX">
+                                <a class="link-normal" target="_self" href="catelogue.php">
+                                    <div class="d-flex align-items-center mb-2 ">
+                                        <img width="56" height="56" class="owner-img"
+                                            src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ftestimony_pics%2Fver1%2F18%2F52967.jpg&w=64&q=75" />
+                                        <div class="ml-2 pl-1">
+                                            <p class="dLjvDu">General Manager</p>
+                                            <p class="mb-overflow">Greensense Energy Systems Pvt. Ltd.</p>
+                                        </div>
+                                    </div>
+                                    <p class="overflow-content">I am extremely satisfied with the services provid by
+                                        GetDistributors. Since I joined them, I have received a good number of
+                                        inquiries. They have exceeded my expectations and provided exceptional service
+                                        so far. I am pleased to be a part of their network. If you want to take your
+                                        business to the next level, this tool is your bes bet. It will help you scale
+                                        your business and achieve new heights of success.</p>
+                                    <div class="d-flex align-items-center mt-3">
+                                        <span
+                                            class="first-letter d-flex align-items-center justify-content-center">M</span>
+                                        <p class="ml-2 owner-ovrflow">Mr. Subhash Gangadhar Chandane</p>
+                                    </div>
+                                    <span class="quotes-img">
+                                        <img alt="quotes" loading="lazy" width="54" height="40"
+                                            src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fdummy%2Fdbl-quotes.png&w=64&q=75" />
+                                    </span>
+                                </a>
+                            </div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </section>
+
+<?php include'layout/blog.php'; ?>
+
+<?php include'layout/footer.php'; ?>
+
+<?php include'layout/footer-link.php'; ?> 
+
+  

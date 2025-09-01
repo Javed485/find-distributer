@@ -1,0 +1,865 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzTtA.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6ew.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3TtA.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFQ.woff) format('woff');
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 14px;
+    color: #333;
+    font-family: "Open Sans", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    -ms-transition: .2s;
+    transition: .2s;
+}
+a:hover{
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    background-color: #fff;
+    width: 15px;
+    position: absolute;
+}
+
+::-webkit-scrollbar-button {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ABBED1;
+    border-radius: 4px;
+    border: 4px solid #fff;
+}
+/* ------------------ START HEADER --------------- */
+header{
+    width: 100%;
+    background-color: #fff;
+    color: #fff;
+}
+header .sub_header{
+    color: #000;
+    background-color: #f9f9f9;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 40px;
+    box-shadow: 0px 1px 4px rgb(231 230 230 / 44445%);
+}
+.sub_header ul {
+    text-align: end;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sub_header li {
+    display: inline;
+    border-right: 1px solid;
+    padding: 0 15px;
+}
+.sub_header li:last-child {
+    border-right: 0px solid;
+}
+.sub_header li a {
+    color: #000;
+}
+.sub_header li a:hover {
+    text-decoration: none;
+}
+header .bottom_header{
+    padding: 8px 0;
+}
+.bottom_header .innerdata{
+    width: 100%;
+    height: 70px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom_header .innerdata ul{
+    list-style: none;
+    margin-bottom: 0;
+}
+.bottom_header .innerdata ul li {
+    line-height: 30px;
+    display: inline-block;
+    position: relative;
+}
+.bottom_header .innerdata ul li a.signIn {
+    padding: 0.3125rem 1.5rem;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #282a3a;
+    padding-right: 0;
+}
+.bottom_header .innerdata ul li a i {
+    font-size: 16px;
+    margin-right: 10px;
+}
+.bottom_header .innerdata .profile ul li .signBox {
+    background: #fff;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+    box-shadow: 0 7px 10px rgba(0,0,0,.14);
+    position: absolute;
+    right: 0;
+    top: 100%;
+    width: 270px;
+    z-index: 999;
+    display: none; 
+}
+.bottom_header .innerdata .profile ul li .dropdown_show {
+    display: block;
+    transition: all 0.5s;
+}
+.bottom_header .innerdata .profile ul li .signBox .logoutCnt {
+    width: 100%;
+    padding: 12px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom_header .innerdata .profile ul li .signBox .logoutCnt .userName {
+    font-size: 16px;
+    color: #333;
+}
+.bottom_header .innerdata .profile ul li .signBox .logoutCnt .logout a {
+    font-size: 16px;
+    color: #2180e2;
+}
+.bottom_header .innerdata .profile ul li .signBox .myGdArea {
+    width: 100%;
+    color: #4a4a4a;
+    background-color: #e8e8e8;
+    font-size: 1rem;
+    text-align: left;
+    padding: 8px 20px;
+}
+.bottom_header .innerdata .profile ul li .signBox .myGdArea a {
+    color: #4a4a4a;
+}
+.bottom_header .innerdata .profile ul li .signBox .myGdArea i.fa-angle-right {
+    font-size: 1rem;
+    margin-left: 5px;
+}
+.bottom_header .innerdata .profile ul li .signBox .userprofile {
+    width: 100%;
+    list-style: none;
+    background-color: #f4f4f4;
+    padding: 15px 0;
+}
+.bottom_header .innerdata .profile ul li .signBox .userprofile li {
+    display: block;
+    line-height: normal;
+    position: relative;
+}
+.bottom_header .innerdata .profile ul li .signBox .userprofile li a {
+    color: #747474;
+    display: block;
+    padding: 8px 20px;
+    transition: .2s;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+}
+.bottom_header .innerdata .profile ul li .signBox .userprofile li a:hover {
+    color: red;
+}
+.bottom_header .innerdata .profile ul li .signBox .buyingReq {
+    width: 100%;
+    border-top: 1px solid #ccc;
+    padding: 8px;
+}
+.bottom_header .innerdata .profile ul li .signBox .buyingReq .submitHeading a {
+    color: #747474;
+    line-height: 30px;
+    font-size: 17px;
+}
+.bottom_header .innerdata .profile ul li .signBox .buyingReq .submitQuote {
+    font-size: 12px;
+    color: #999;
+}
+
+/* ------------------ START USER PROFILE --------------- */
+.bodySec{
+    width: 100%;
+    padding: 25px 0px;
+    background-color: #f5f5f5;
+}
+.top_nav {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    background-color: #ffa114;
+}
+.top_nav ul{
+    list-style: none;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+}
+.top_nav ul li {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 15px;
+    padding-right: 30px;
+    border-right: 1px solid #fff;
+}
+.top_nav ul li:last-child{
+    border-right: 0px solid #fff;
+}
+.top_nav ul li i.fa-home {
+    font-size: 16px;
+    margin: 2px 15px 0 0;
+    color: #fff;
+}
+.top_nav ul li a {
+    color: #fff;
+}
+.top_nav ul li a:hover{
+    color: #000;
+}
+.bodySec .formSection{
+    width: 100%;
+    padding: 28px 40px 0;
+    margin-top: 25px;
+    background-color: #fff;
+}
+.formSection form{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 28px;
+}
+.formSection form .FormGroup {
+    width: 100%;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+.formSection form .FormGroup .lableCnt{
+    width: 40%;
+    height: auto;
+    text-align: left;
+}
+.formSection form .FormGroup .lableCnt label {
+    margin-bottom: 0px;
+    font-size: 18px;
+    color: #666;
+    line-height: 22px;
+    margin-right: 30px;
+}
+.formSection form .FormGroup .inputCnt{
+    width: 60%;
+    text-align: left;
+}
+.formSection form .FormGroup .inputCnt .formControl{
+    width: 100%;
+    height: 50px;
+    color: #9e9e9e;
+    border: 1px solid silver;
+    line-height: 32px;
+    padding: 6px 15px;
+    border-radius: 2px;
+    font-size: 16px;
+}
+.formSection form .FormGroup .inputCnt .formControl::placeholder {
+    color: #9e9e9e;
+    opacity: 1;
+    font-size: 15px;
+}
+.formSection form .FormGroup .inputCnt textarea{
+    line-height: 30px !important;
+    height: 90px !important;
+}
+.formSection form .FormGroup .inputCnt .radiobtn{
+    font-size: 16px;
+}
+.formSection form .FormGroup .inputCnt .radiobtn .distributors  {
+    color: #ffa114;
+}
+.formSection form .FormGroup .inputCnt .radiobtn .franchisees {
+    color: #26b7e7;
+}
+.formSection form .FormGroup .inputCnt .radiobtn input[type="radio"] {
+    transform: scale(1.3);
+}
+.inputCnt .radiobtn .colorOragne{
+    accent-color: #ffa114;
+}
+.inputCnt .radiobtn .colorGreen{
+    accent-color: #26b7e7;
+}
+.bodySec .FormGroup .joinSubmitBtns{
+    font-size: 20px;
+    width: 185px;
+    color: #fff !important;
+    background-color: #e62e04;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 0;
+    padding: 0.525rem 0.75rem;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+/* ------------------ START FOOTER --------------- */
+footer {
+    background-color: #ffffff;
+    padding: 35px 0 16px 0;
+    border-top: 1px solid #ddd;
+}
+footer .footerMenu h3 {
+    color: #565656;
+    font-size: 1.125rem;
+    font-weight: 400;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+}
+footer .footerMenu ul {
+    list-style: none;
+    margin-bottom: 0px;
+}
+footer .footerMenu li {
+    display: block;
+    line-height: 25px;
+    border-bottom: 1px solid #e4e4e4;
+}
+footer .footerMenu a {
+    color: #565a5e;
+    display: inline-block;
+    font-size: 16px;
+    padding: 6px 0;
+    transition: .2s;
+}
+footer .footerMenu li:last-child {
+    border-bottom: 0px solid #e4e4e4;
+}
+footer .footerLogo {
+    border-right: 1px solid #e4e4e4;
+    padding: 0.625rem 0;
+}
+footer .footerLogo img {
+    width: 90%;
+    height: auto;
+    padding-top: 10px;
+}
+footer .info {
+    color: #565a5e;
+    text-align: left;
+    padding: 16px 0px;
+}
+footer .socialIcons {
+    border-left: 1px solid #e4e4e4;
+    color: #7b7b7b;
+    padding: 24px 0;
+    text-align: right;
+}
+footer .socialIcons i {
+    color: #3b5998;
+    font-size: 28px;
+    margin-left: 12px;
+    transition: .2s; 
+}
+footer .socialIcons i.fa-facebook-f {
+    color: #3b5998;
+}
+footer .socialIcons i.fa-twitter {
+    color: #55acee;
+}
+footer .socialIcons i.fa-linkedin-in {
+    color: #0083be;
+}
+footer .socialIcons i.fa-instagram {
+    background: -webkit-linear-gradient(#a11b88, #ad983f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.lastfooter {
+    background-color: #131a22;
+}
+.lastfooter .copyRight {
+    padding: 24px 0;
+    text-align: center;
+}
+.lastfooter .copyRight .lightText {
+    color: #fffbfa;
+}
+.lastfooter .copyRight .darkText {
+    color: #767676;
+}
+
+/* ------------------ START INQURIES --------------- */
+.bodySec .distributerBox{
+    padding: 45px 10px;
+    border: 4px solid #C0C0CF;
+}
+.distributerBox .inquiries h6{
+    color: #729D04;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.distributerBox .inquiries p{
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ------------------ START My DISTRIBUTERS --------------- */
+.bodySec .userBox{
+    padding: 5px;
+    border: 1px solid #C0C0CF;
+    display: flex;
+}
+.userBox .greenBox{
+    width: 18%;
+    background-color: rgb(224, 232, 128);
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.userBox .greenBox h6{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.userBox .userDetail{
+    width: 82%;
+    padding: 5px;
+}
+.userBox .userDetail table {
+    width: 100%;
+    font-size: 13px;
+    line-height: 20px;
+    border: 0;
+}
+.userBox .userDetail table tbody tr .firstBox{
+    width: 15%;
+}
+.userBox .userDetail table tbody tr .secondBox{
+    width: 85%;
+}
+.bodySec .mydistributerBox{
+    padding: 10px;
+    border: 1px solid #000000;
+}
+.mydistributerBox .tableheading{
+    display: flex;
+    justify-content: space-between;
+}
+.mydistributerBox .tableheading .t_add a{
+    font-weight: 500;
+}
+.mydistributerBox .distributerDetail{
+    margin: 10px 0px; 
+}
+.mydistributerBox .distributerDetail table{
+    font-size: 12px ;
+    margin-bottom: 0px;
+    border: 1px solid #cccccc;
+    background-color:#cccccc;
+}
+.mydistributerBox .distributerDetail table tr.t_data{
+    color: #000000;
+    background-color: #ffffff;
+}
+.mydistributerBox .distributerDetail table td{
+    padding: 0.50rem;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid #cccccc;
+}
+
+/* ------------------ START EDIT DISTRIBUTERS --------------- */
+.bodySec .formContainer{
+    width: 100%;
+    padding: 28px 80px;
+    margin-top: 25px;
+    background-color: #fff;
+}
+.formContainer .dis-heading{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.formContainer .formSectionCnt{
+    width: 100%;
+}
+.formContainer .formSectionCnt .lookingFor {
+    border: 1px solid #b3b3b3;
+    background-color: #eee;
+    display: flex;
+}
+.formContainer .formSectionCnt .lookingFor .form-check-inline {
+    width: 50%;
+    margin-right: 0px !important;
+    padding: 15px;
+}   
+.formContainer .formSectionCnt .lookingFor .form-check-inline:first-child {
+    border-right: 1px solid #b3b3b3;
+}   
+.formContainer .formSectionCnt .lookingFor .form-check-inline input{
+    transform: scale(1.3);
+    accent-color: #ffa114;
+    /* accent-color: red; */
+}
+.formContainer .formSectionCnt .lookingFor .form-check-inline label{
+    color: #666;
+    font-size: 18px;
+    line-height: 17px;
+    padding-left: 5px;
+    margin-bottom: 0px;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+.formContainer .formSectionCnt .lookingFor .form-check-inline label span{
+    color: #666;
+}
+.bodySec .formContainer .heading {
+    font-size: 1.0625rem;
+    color: #666;
+    padding: 0.625rem 0;
+    border-bottom: 1px solid #dadada;
+    font-weight: 400;
+    margin-top: 1.875rem;
+    margin-bottom: 1.875rem;
+}
+.bodySec .formContainer .fw-700 {
+    font-weight: 700;
+}
+.formSection form.myeditForm {
+    width: 100%;
+    margin: auto;
+    padding-bottom: 0px;
+}
+.formContainer .inputField{
+    width: 80%;
+    margin: auto;
+}
+.inputField .FormGroup .inputCnt .inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+.inputField .FormGroup .inputCnt .inputfile + label {
+    width: auto;
+    font-size: 1.0625rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 1.25rem;
+    margin-bottom: 0px;
+    border-radius: 4px;
+    background-color: #26b7e7;
+    color: #fff;
+}
+.formSection form .FormGroup .inputCnt .multipleSelect{
+    height: 90px;
+}
+.inputField .FormGroup .inputCnt .comment_txt {
+    color: #2180e2;
+    font-size: 13px;
+    margin: 0.3125rem 0 0.625rem;
+}
+.formSectionCnt .typeofDis .checkbox-inline, 
+.formSectionCnt .typeofDis .radio-inline {
+    cursor: pointer;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding-left: 25px;
+    margin-top: 0;
+    outline: 0;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+.formContainer .formSection .termSection{
+    width: 80%;
+    margin: auto;
+}
+.formContainer .formSection .locationDetail {
+    width: 100%;
+    padding: 24px;
+    background-color: #f6f6f6;
+}
+.formContainer .formSection .locationDetail .acrossChq {
+    margin-bottom: 20px;
+    padding-left: 0;
+    cursor: pointer;
+    font-weight: 400;
+}
+.formContainer .formSection .locationDetail ul {
+    list-style-type: none;
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.formContainer .formSection .locationDetail ul li {
+    width: 25%;
+    margin-bottom: 25px;
+    height: auto;
+}
+.formContainer .formSection .locationDetail ul li label {
+    font-size: 12px;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+.formContainer .formSection .locationDetail #w-check li {
+    width: 25%;
+    float: left;
+    margin-bottom: 1.5625rem;
+    height: auto;
+}
+.joinFormGroup {
+    position: relative;
+    width: 100%;
+    padding-left: .83333%;
+    padding-right: .83333%;
+    margin-bottom: 0.4375rem;
+}
+
+/* ------------------ START UPLOAD DISTRIBUTERS--------------- */
+.bodySec .no-product{
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    border-bottom: 1px solid #000;
+}
+.bodySec .no-product .heading{
+    font-size: 18px;
+    text-align: center;
+}   
+
+/* ------------------ START ADD PRODUCT DISTRIBUTERS--------------- */
+.bodySec .productSection{
+    margin-top: 0;
+    padding: 30px 28px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    border: 1px solid #C8C8C8;
+}
+.formContainer .formSection .pro-heading{
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.formSection form .FormGroup .inputCnt .heightTextarea {
+    height: 125px !important;
+}
+.bodySec .FormGroup .colorGreen {
+    background-color: #77b300;
+}
+
+/* ------------------ START ADD NEW PRODUCT DISTRIBUTERS--------------- */
+.formContainer .formSectionCnt .lookingFor .becomeRadio {
+    width: 100%;
+    margin-right: 0px !important;
+    padding: 15px;
+    justify-content: center;
+}
+.formContainer .formSectionCnt .lookingFor .becomeRadio:first-child {
+    border-right: none;
+}
+
+/* ------------------ START FRANCHISE --------------- */
+.franInvest .FormGroup .inputCnt .form-check-inline input,
+.termSection .FormGroup .inputCnt .form-check-inline input{
+    transform: scale(1.3);
+    margin-right: 10px;
+}
+.franInvest .FormGroup .flexbox{
+    display: flex;
+    gap: 10px;
+}
+.franInvest .FormGroup .inputCnt .investWidth{
+    width: 50%;
+    float: left;
+}
+
+/* ------------------ START POST YOUR REQUIREMENTS --------------- */
+.bodySec .postContainer{
+    width: 100%;
+    padding: 25px;
+    background: linear-gradient(90deg, #f8f5eb 1.45%, #fff 100%);
+    box-shadow: 0 19px 39px -2px rgb(109 103 89 / 7%);
+    border-radius: 8px;
+}
+.bodySec .postContainer .head{
+    font-size: 20px;
+    color: #575757;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 1.500rem;
+}
+.bodySec .postContainer form .FormGroup .formControl {
+    width: 100%;
+    height: 50px;
+    color: #9e9e9e;
+    border: 1px solid silver;
+    line-height: 32px;
+    padding: 6px 15px;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.bodySec .postContainer form .FormGroup textarea {
+    height: 130px !important;
+}
+
+/* ------------------ START LOGIN --------------- */
+.bodySec .loginContainer{
+    width: 100%;
+    padding: 30px 40px;
+    background: #f9f9f9;
+    border-radius: 3px;
+    box-shadow: 1px 2px 4px #ccc;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.bodySec .loginContainer .defaultUser{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.bodySec .loginContainer .defaultUser img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 50%;
+}
+.loginContainer form .FormGroup .formControl {
+    width: 100%;
+    color: #9e9e9e;
+    border: 1px solid silver;
+    line-height: 32px;
+    padding: 6px 15px;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.loginContainer form .rememberMe{
+    text-align: left;
+    margin-top: 5px;
+}
+.bodySec .FormGroup .signbtn {
+    width: 100%;
+    font-size: 16px;
+    color: #fff !important;
+    background-color: #e62e04;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 0;
+    padding: 0.525rem 0.75rem;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.loginContainer form .forgotPass {
+    padding-top: 0.625rem;
+    text-align: right;
+    font-size: .8125rem;
+}
+
+
+.formContainer .myeditForm .contents{
+    display: none;
+}
+
+
+
+
+
+
+
+
+

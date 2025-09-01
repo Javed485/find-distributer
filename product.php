@@ -1,0 +1,469 @@
+<!-- All Links -->
+<?php include'layout/all-link.php'; ?>
+
+<!-- Header -->
+<?php include'layout/header.php'; ?>
+
+
+<!-- ------------------ START BANNER ---------------- -->
+    <section>
+        <div class="catelogue-header">
+            <div class="container py-4">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="d-none d-md-block">
+                            <ul class="gZuWyf">
+                                <li class="bd-list">
+                                    <a target="_self" href="distributer.php">Distributors</a>
+                                    <i class="fas fa-chevron-right"></i>
+                                </li>
+                                <li class="bd-list">
+                                    <a target="_self" href="">Industrial Supplies</a>
+                                    <i class="fas fa-chevron-right"></i>
+                                </li>
+                                <li class="bd-list">
+                                    <a target="_self" href="">Global Wheels</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 cat-header">
+                        <div class="d-md-flex justify-content-md-between">
+                            <div class="left-section d-md-flex">
+                                <div class="company-image mr-3">
+                                    <img width="160" height="120"
+                                        src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fco_logos%2FGLOBAL-WHEELS-v1-182265.jpeg&w=384&q=75" />
+                                </div>
+                                <div>
+                                    <div class="company-badges--chips d-flex">
+                                        <div class="cy-badges">
+                                            <img alt="premium brand" width="78" height="32"
+                                                src="https://www.getdistributors.com/_next/image/?url=%2Fimages%2Fbadges%2Fpremium-brand-1.png&w=96&q=75" />
+                                        </div>
+                                    </div>
+                                    <h1 class="company-name">Global Wheels</h1>
+                                    <div class="brand--investment">
+                                        <div class="brand d-md-flex mr-2">
+                                            <p class="lfuusU">BRAND
+                                                <span class="d-none d-md-inline">:</span>
+                                            </p>
+                                        </div>
+                                        <div class="vertical-line"></div>
+                                        <div class="investment d-md-flex align-items-center ml-2">
+                                            <p class="lfuusU">Investment Required
+                                                <span class="d-none d-md-inline">:</span>
+                                            </p>
+                                            <p class="lflXag ml-md-1">2.00 Lac - 5.00 Lac</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="right-section mt-4 mt-md-0">
+                                <div class="d-flex d-md-block justify-content-between">
+                                    <div class="share--like">
+                                        <p class="bvMktO d-flex justify-content-end align-items-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                                                <path
+                                                    d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3">
+                                                </path>
+                                            </svg>Like:
+                                            <span>( 10 ) </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round"
+                                                class="ml-3 mr-3 c-pointer" onclick="socialfunction()">
+                                                <circle cx="18" cy="5" r="3"></circle>
+                                                <circle cx="6" cy="12" r="3"></circle>
+                                                <circle cx="18" cy="19" r="3"></circle>
+                                                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                                                <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                                            </svg>
+                                        </p>
+
+                                        <div class="sc-wrapper">
+                                            <div class="hide" id="social--icon">
+                                                <div class="mb-4 pb-4 social">
+                                                    <ul>
+                                                        <li><a href="#" class="fb"><i class="fab fa-facebook-f"></i></a>
+                                                        </li>
+                                                        <li><a href="#" class="tw"><i class="fab fa-twitter"></i></a>
+                                                        </li>
+                                                        <li><a href="#" class="wh"><i class="fab fa-whatsapp"></i></a>
+                                                        </li>
+                                                        <li><a href="#" class="ln"><i class="fab fa-linkedin-in"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex justify-content-around align-items-center mt-md-3 mb-3 contact">
+                                        <a href="tel:" class="text-decoration-none d-flex">
+                                            <i class="fas fa-phone-volume"></i>
+                                            <p class="fGYXXb ml-2">08045812609</p>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="send-response--btn">
+                                    <button class="joNwBI">Send Your Response</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START NAVBAR ---------------- -->
+    <section>
+        <div class="cat-navbar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="tabs">
+                            <ul class="tabs-titles" id="cate-nav">
+                                <li class="tab-title">Overall</li>
+                                <li class="tab-title">Business Details</li>
+                                <li class="tab-title tab-active">Product Services</li>
+                                <li class="tab-title">Contact Details</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START TABLES ---------------- -->
+    <section>
+       <div class="product-services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="head-style product-heading mt-2 mb-3">Our Products & Services</h2>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <div class="product-list">
+                            <div class="imgCnt">
+                                <a target="_self" href="">
+                                    <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45809.png&w=384&q=75">
+                                </a>
+                            </div>
+                            <div class="info"> 
+                                <a class="text-decoration-none text-dark" target="_self" href="product-detail.php">
+                                    <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                </a>
+                                <a class="text-decoration-none" target="_self" href="product-detail.php">
+                                    <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-3">
+                        <div class="product-list">
+                            <div class="imgCnt">
+                                <a target="_self" href="">
+                                    <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45809.png&w=384&q=75">
+                                </a>
+                            </div>
+                            <div class="info"> 
+                                <a class="text-decoration-none text-dark" target="_self" href="product-detail.php">
+                                    <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                </a>
+                                <a class="text-decoration-none" target="_self" href="product-detail.php">
+                                    <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-3">
+                        <div class="product-list">
+                            <div class="imgCnt">
+                                <a target="_self" href="">
+                                    <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45809.png&w=384&q=75">
+                                </a>
+                            </div>
+                            <div class="info"> 
+                                <a class="text-decoration-none text-dark" target="_self" href="product-detail.php">
+                                    <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                </a>
+                                <a class="text-decoration-none" target="_self" href="product-detail.php">
+                                    <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-3">
+                        <div class="product-list">
+                            <div class="imgCnt">
+                                <a target="_self" href="">
+                                    <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45809.png&w=384&q=75">
+                                </a>
+                            </div>
+                            <div class="info"> 
+                                <a class="text-decoration-none text-dark" target="_self" href="product-detail.php">
+                                    <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                </a>
+                                <a class="text-decoration-none" target="_self" href="product-detail.php">
+                                    <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-3">
+                        <div class="product-list">
+                            <div class="imgCnt">
+                                <a target="_self" href="">
+                                    <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45809.png&w=384&q=75">
+                                </a>
+                            </div>
+                            <div class="info"> 
+                                <a class="text-decoration-none text-dark" target="_self" href="product-detail.php">
+                                    <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                </a>
+                                <a class="text-decoration-none" target="_self" href="product-detail.php">
+                                    <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+    </section>
+
+<!-- ------------------ START CONTACT FORM ---------------- -->
+    <section>
+        <div class="contact-us" id="contact-section">
+            <div class="container pb-4">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="contact-us--form product-contact-form">
+                            <div class="d-md-flex">
+                                <div class="form-left--section">
+                                    <p class="col-white form--title">Get In Touch</p>
+                                    <div class="d-flex align-items-center detail-cont">
+                                        <div class="form--icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round" class="icon-style">
+                                                <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                                <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                                            </svg>
+                                        </div>
+                                        <div class="ml-2 coy-detail">
+                                            <p class="dXwXVd">Company Name</p>
+                                            <p class="dXMPVd">Global Wheels</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center detail-cont">
+                                        <div class="form--icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round" class="icon-style">
+                                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                                <circle cx="12" cy="10" r="3"></circle>
+                                            </svg>
+                                        </div>
+                                        <div class="ml-2 coy-detail">
+                                            <p class="dXwXVd">Address</p>
+                                            <p class="dXMPVd">Gat No. 599/1B, Behind-Bajaj Electricals, Mahalunge
+                                                Chakan, </p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center detail-cont">
+                                        <div class="form--icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round" class="icon-style">
+                                                <path
+                                                    d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                                </path>
+                                            </svg>
+                                        </div>
+                                        <div class="ml-2 coy-detail">
+                                            <p class="dXwXVd">Phone Number</p>
+                                            <a href="tel:08037261186" class="no-dec">
+                                                <p class="dXMPVd">08045812609</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-right--section">
+                                    <form novalidate="">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Full Name">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Company Name">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Mobile No.">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Email Address">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Pincode">
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <input type="text" class="form-control contInput" placeholder="Subject">
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <textarea class="form-control" rows="5" placeholder="Type Message" id="comment"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>                
+                                        <div class="submit-btn mt-3">
+                                            <button type="submit" class="joNwBI">Submit</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- ------------------ START TABLES ---------------- -->
+    <section>
+        <div class="product-services">
+             <div class="container mb-3">
+                 <div class="row">
+                    <div class="col-6 col-md-3">
+                         <div class="product-list">
+                             <div class="imgCnt">
+                                 <a target="_self" href="">
+                                     <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45817.png&w=384&q=75">
+                                 </a>
+                             </div>
+                             <div class="info"> 
+                                 <a class="text-decoration-none text-dark" target="_self" href="">
+                                     <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                 </a>
+                                 <a class="text-decoration-none" target="_self" href="">
+                                     <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                 </a>
+                             </div>
+                         </div>
+                     </div>
+ 
+                     <div class="col-6 col-md-3">
+                         <div class="product-list">
+                             <div class="imgCnt">
+                                 <a target="_self" href="">
+                                     <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45817.png&w=384&q=75">
+                                 </a>
+                             </div>
+                             <div class="info"> 
+                                 <a class="text-decoration-none text-dark" target="_self" href="">
+                                     <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                 </a>
+                                 <a class="text-decoration-none" target="_self" href="">
+                                     <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                 </a>
+                             </div>
+                         </div>
+                     </div>
+ 
+                     <div class="col-6 col-md-3">
+                         <div class="product-list">
+                             <div class="imgCnt">
+                                 <a target="_self" href="">
+                                     <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45817.png&w=384&q=75">
+                                 </a>
+                             </div>
+                             <div class="info"> 
+                                 <a class="text-decoration-none text-dark" target="_self" href="">
+                                     <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                 </a>
+                                 <a class="text-decoration-none" target="_self" href="">
+                                     <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                 </a>
+                             </div>
+                         </div>
+                     </div>
+ 
+                     <div class="col-6 col-md-3">
+                         <div class="product-list">
+                             <div class="imgCnt">
+                                 <a target="_self" href="">
+                                     <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45817.png&w=384&q=75">
+                                 </a>
+                             </div>
+                             <div class="info"> 
+                                 <a class="text-decoration-none text-dark" target="_self" href="">
+                                     <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                 </a>
+                                 <a class="text-decoration-none" target="_self" href="">
+                                     <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                 </a>
+                             </div>
+                         </div>
+                     </div>
+ 
+                     <div class="col-6 col-md-3">
+                         <div class="product-list">
+                             <div class="imgCnt">
+                                 <a target="_self" href="">
+                                     <img alt="HDPE Sheet" width="262" height="160" src="https://www.getdistributors.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Fgd%2Fv1%2F45817.png&w=384&q=75">
+                                 </a>
+                             </div>
+                             <div class="info"> 
+                                 <a class="text-decoration-none text-dark" target="_self" href="">
+                                     <h3 class="moHeading mb-1">HDPE Sheet</h3>
+                                 </a>
+                                 <a class="text-decoration-none" target="_self" href="">
+                                     <button type="submit" class="gOTTCN mt-3 call-btn">View More</button>
+                                 </a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+        </div>
+    </section>
+
+
+<?php include'layout/footer.php'; ?>
+
+<?php include'layout/footer-link.php'; ?> 
+
+<script>
+    let header = document.getElementById("cate-nav");
+    let btns = header.getElementsByClassName("tab-title");
+        for (let i = 0; i < btns.length; i++) {
+            btns[i].addEventListener("click", function() {
+                let current = document.getElementsByClassName("tab-active");
+                current[0].className = current[0].className.replace(" tab-active", "");
+                this.className += " tab-active";
+            });
+        };
+</script>

@@ -1,0 +1,186 @@
+
+/* =========== Top Header =========== */
+@media screen and (max-width: 767px) {
+    .sub_header li {
+        padding: 0 6px;
+        font-size: 13px;
+    }
+    .logoimg .gdlogo{
+        padding-left: 10px;
+    }
+    .logoimg .gdlogo img{
+        width: 80%;
+    }
+    .bottom_header .innerdata ul li a.signIn {
+        font-size: 14px;
+    }
+    .top_nav ul li {
+        font-weight: 600;
+        margin: 10px;
+        padding-right: 15px;
+    }
+    .bodySec .formSection {
+        padding: 28px 0px 0;
+    }
+    .formSection form {
+        width: 90%;
+        margin: auto;
+    }
+    .formSection form .FormGroup {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+    .formSection form .FormGroup .lableCnt {
+        width: 100%;
+        height: auto;
+        text-align: left;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .formSection form .FormGroup .inputCnt {
+        width: 100%;
+        text-align: left;
+    }
+    .formSection form .mobileRadio {
+        display: flex;
+        flex-direction: row;
+        align-items: start;
+    }
+    .formSection form .FormGroup .w-30 {
+        width: 30%;
+        height: 50px;
+        text-align: left;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .formSection form .FormGroup .w-70 {
+        width: 70%;
+        text-align: left;
+    }
+    .formSection form .mt-5 {
+        margin-top: 15px !important;
+    }
+    .formSection form .FormGroup .none {
+        display: none;
+    }
+    .formSection form .FormGroup .center {
+        text-align: center;
+    }
+    footer {
+        padding: 20px 0 15px 0;
+    }
+    footer .row .col-12 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #ccc;
+    }
+    footer .row .col-12:last-child {
+        border-bottom: 0px solid #ccc;
+    }
+    footer .footerMenu li {
+        border-bottom: none;
+    }
+    footer .footerMenu a {
+        padding: 3px 0;
+    }
+    footer .footerLogo{
+        text-align: center;
+    }
+    footer .footerLogo img {
+        width: 50%;
+        height: auto;
+        padding-top: 0px;
+    }
+    footer .info {
+        padding: 0px 0px;
+    }
+    footer .socialIcons {
+        padding: 12px 0;
+        text-align: center;
+    }
+    footer .socialIcons i {
+        font-size: 20px;
+    }
+    .lastfooter .copyRight {
+        padding: 18px 0;
+    }
+}
+
+/* =========== My Distributer =========== */
+@media screen and (max-width: 767px){
+    .bodySec .m-padding {
+        padding: 28px;
+        padding-bottom: 15px;
+    }
+    .bodySec .form-padding {
+        padding: 0px 0px 0px;
+    }
+    .formContainer .formSectionCnt .lookingFor .form-check-inline {
+        padding: 10px;
+    }
+    .formContainer .formSectionCnt .lookingFor .form-check-inline label {
+        font-size: 14px;
+    }
+    .formContainer .formSectionCnt .lookingFor .form-check-inline input {
+        transform: scale(1.1);
+    }
+    .bodySec .formContainer .heading {
+        font-size: 1rem;
+        padding: 0.500rem 0;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .formContainer .inputField {
+        width: 90%;
+    }
+    .formContainer .formSection .termSection {
+        width: 90%;
+    }
+    .formSection form .FormGroup .lableCnt label {
+        font-size: 16px;
+    }
+    .formSection form .FormGroup .inputCnt .formControl {
+        height: 40px;
+        font-size: 12px;
+    }
+    .inputField .FormGroup .inputCnt .inputfile + label {
+        font-size: 1rem;
+        height: 40px;
+        line-height: 40px;
+    }
+    .formSection form .FormGroup .inputCnt .multipleSelect {
+        height: 90px;
+    }
+    .formContainer .formSection .locationDetail ul li {
+        width: 50%;
+    }
+    .formContainer .formSection .locationDetail #w-check li {
+        width: 50%;
+    }
+    .formSection form .FormGroup .btn-center {
+        text-align: center;
+    }
+    .bodySec .no-product .heading {
+        font-size: 16px;
+    }
+}
+
+/* =========== Add Product =========== */
+@media screen and (max-width: 767px){
+    /* .formSection form .d-row {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    } */
+}
+
+
+
+
+
+
+
+
+
+
