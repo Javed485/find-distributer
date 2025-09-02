@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
 
 <!-- Post Your Requirement -->
 <section class="bodySec">
@@ -31,4 +31,4 @@
 </section>
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>

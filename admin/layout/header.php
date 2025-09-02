@@ -30,9 +30,9 @@
         <section class="sub_header">
             <div class="container">
                 <ul>
-                    <li><a href="../distributer.php">Distributors</a></li>
-                    <li><a href="../franchisor.php">Franchises</a></li>
-                    <li><a href="../request-callback.php">Request A Callback</a></li>
+                    <li><a href="../distributer.html">Distributors</a></li>
+                    <li><a href="../franchisor.html">Franchises</a></li>
+                    <li><a href="../request-callback.html">Request A Callback</a></li>
                 </ul>
             </div>
         </section>
@@ -40,7 +40,7 @@
             <div class="container">
                 <div class="innerdata">
                     <div class="logoimg">
-                        <a href="index.php" class="gdlogo"> 
+                        <a href="index.html" class="gdlogo"> 
                             <img src="assets/images/find.png" alt="finddistributors" width="225" height="35"> 
                         </a> 
                     </div>
@@ -54,22 +54,22 @@
                                     <div class="logoutCnt">
                                         <div class="userName">Abhishek</div>
                                         <div class="logout">
-                                            <a href="login.php">Sign Out</a>
+                                            <a href="login.html">Sign Out</a>
                                         </div>
                                     </div>
                                     <div class="myGdArea">
-                                        <a href="index.php">My Finddistributor</a> 
+                                        <a href="index.html">My Finddistributor</a> 
                                         <i class="fa fa-angle-right"></i>
                                     </div>
                                     <ul class="userprofile">
-                                        <li><a href="index.php">My Profile</a></li>
-                                        <li><a href="inquiry.php">My Inquiries</a></li>
-                                        <li><a href="my-distributer.php">My Distributors</a></li>
-                                        <li><a href="edit-my-franchises.php">My Franchises</a></li>
+                                        <li><a href="index.html">My Profile</a></li>
+                                        <li><a href="inquiry.html">My Inquiries</a></li>
+                                        <li><a href="my-distributer.html">My Distributors</a></li>
+                                        <li><a href="edit-my-franchises.html">My Franchises</a></li>
                                     </ul>
                                     <div class="buyingReq">
                                         <div class="submitHeading"> 
-                                            <a href="post-your-requirement.php">Post Your Requirement</a> 
+                                            <a href="post-your-requirement.html">Post Your Requirement</a> 
                                         </div>
                                         <div class="submitQuote">Get multiple quotes!</div>
                                     </div>

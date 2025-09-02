@@ -244,13 +244,13 @@ function socialfunction() {
 
 
 // SLIDER FRANCHISES COMPANIES JOINFREE
-  // $(document).ready(function () {
-  //   $('#review-slider').slick({
-  //     infinite: true,
-  //     autoplay: true,
-  //     autoplaySpeed: 2000,
-  //   });
-  // });
+  $(document).ready(function () {
+    $('#review-slider').slick({
+      infinite: true,
+      autoplay: true,
+      autoplaySpeed: 2000,
+    });
+  });
 
 
 

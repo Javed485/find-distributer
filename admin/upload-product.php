@@ -1,21 +1,21 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
     
 <!-- My Distributer Content -->
 <section class="bodySec">
     <div class="container">
         
         <!-- Navbar -->
-        <?php include'layout/second-navbar.php'; ?>
+        <?html include'layout/second-navbar.html'; ?>
         
         <!-- Product Section -->
         <div class="no-product" >
-            <div class="heading">No Products have been uploaded, <a href="add-product-distributer.php">click here </a>to add a product</div>
+            <div class="heading">No Products have been uploaded, <a href="add-product-distributer.html">click here </a>to add a product</div>
         </div>
     </div>
 </section>
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>
 
 

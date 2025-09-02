@@ -75,13 +75,13 @@ export default function homeBanner() {
                                                 Franchise</p>
                                         </div>
                                         <div class="event-btn mt-2 pt-1">
-                                            <a class="link-normal" target="_self" href="distributer.php"
+                                            <a class="link-normal" target="_self" href="./distributer.html"
                                                 id="distributedShow">
                                                 <button class="joNwBI">
                                                     <p class="dXVnnR">Looking for Distributor</p>
                                                 </button>
                                             </a>
-                                            <a class="link-normal" target="_self" href="franchisor.php"
+                                            <a class="link-normal" target="_self" href="./franchisor.html"
                                                 id="franchiseShow">
                                                 <button class="joNwBI">
                                                     <p class="dXVnnR">Looking for Franchise</p>
@@ -151,4 +151,4 @@ export default function homeBanner() {
     )
 };
 
-// <?php include'modals.php'; ?>
+// <?html include'modals.html'; ?>

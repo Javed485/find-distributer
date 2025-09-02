@@ -7,8 +7,8 @@
                     <div class="footerMenu">
                         <h3>Finddistributors</h3>
                         <ul>
-                            <li><a href="../about-us.php">About us</a></li>
-                            <li><a href="../testimonial.php">Testimonials</a></li>
+                            <li><a href="../about-us.html">About us</a></li>
+                            <li><a href="../testimonial.html">Testimonials</a></li>
                             <li><a href="https://bulkvyapar.com/blog">Blog</a></li>
                             <li><a href="javascript:void(0);">Make A Payment</a></li>
                         </ul>
@@ -18,11 +18,11 @@
                     <div class="footerMenu">
                         <h3>help</h3>
                         <ul>
-                            <li><a href="../feedback.php">Feedback</a></li>
-                            <li><a href="../sitemap.php">Site map</a></li>
-                            <li><a href="../contact-us.php">Contact Us</a></li>
-                            <li><a href="../feedback.php">Report Infringement</a></li>
-                            <li><a href="../terms-condition.php">Terms</a></li>
+                            <li><a href="../feedback.html">Feedback</a></li>
+                            <li><a href="../sitemap.html">Site map</a></li>
+                            <li><a href="../contact-us.html">Contact Us</a></li>
+                            <li><a href="../feedback.html">Report Infringement</a></li>
+                            <li><a href="../terms-condition.html">Terms</a></li>
                         </ul>
                     </div>
                 </div>
@@ -30,8 +30,8 @@
                     <div class="footerMenu">
                         <h3>Distributor</h3>
                         <ul>
-                            <li><a href="index.php">Register as Distributor</a></li>
-                            <li><a href="../distributer.php">Distributor Categories</a></li>
+                            <li><a href="index.html">Register as Distributor</a></li>
+                            <li><a href="../distributer.html">Distributor Categories</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,8 +39,8 @@
                     <div class="footerMenu">
                         <h3>Franchises</h3>
                         <ul>
-                            <li><a href="index.php">Register as Franchises</a></li>
-                            <li><a href="../franchisor.php">Franchises Categories</a></li>
+                            <li><a href="index.html">Register as Franchises</a></li>
+                            <li><a href="../franchisor.html">Franchises Categories</a></li>
                         </ul>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="footerLogo"> 
-                        <a href="../index.php" class="gdLogo"> 
+                        <a href="../index.html" class="gdLogo"> 
                             <img src="assets/images/find.png" width="250" height="45"> 
                         </a> 
                     </div>

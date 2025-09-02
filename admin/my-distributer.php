@@ -1,12 +1,12 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
 
 <!-- Distributer Content -->
 <section class="bodySec">
     <div class="container">
         
         <!-- Navbar -->
-        <?php include'layout/second-navbar.php'; ?>
+        <?html include'layout/second-navbar.html'; ?>
             
         <!-- User Details -->
         <div class="userBox mt-4">
@@ -34,7 +34,7 @@
             <div class="tableheading">
                 <div><b>These are the existing record(s) found.</b></div>
                 <div class="t_add"> 
-                    <a href="edit-my-distributer.php">Add New Record</a> 
+                    <a href="edit-my-distributer.html">Add New Record</a> 
                 </div>               
             </div>
             <div class="distributerDetail table-responsive">
@@ -51,8 +51,8 @@
                             <td><b style="color:#962800">Looking</b> for Distributor</td>
                             <td>Bold Care</td>
                             <td>Distributer</td>
-                            <td><a href="edit-my-distributer.php">Edit</a></td>
-                            <td><a href="upload-product.php">Upload Products</a></td>
+                            <td><a href="edit-my-distributer.html">Edit</a></td>
+                            <td><a href="upload-product.html">Upload Products</a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -62,4 +62,4 @@
 </section>
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>

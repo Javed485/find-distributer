@@ -1,5 +1,6 @@
-<!-- ------------------ PAGE LOADED MODAL ---------------  -->
-    <div class="modal fade" id="loadpage-Modal">
+function modalLoaded(){
+    return (
+        `<div class="modal fade" id="loadpage-Modal">
         <div class="modal-dialog modal-lg modal-dialog-centered modal-width">
             <div class="modal-content form-modal">
                 <!-- Modal body -->
@@ -68,11 +69,13 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>`
+    )
+};
 
-
-<!-- ------------------ CATEGORY MODAL ---------------  -->
-    <div class="modal fade" id="cat-Modal">
+function modalCategories(){
+    return (
+        ` <div class="modal fade" id="cat-Modal">
         <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
             <div class="modal-content cat-box">
 
@@ -287,11 +290,13 @@
                 </div>
             </div>
         </div>
-    </div>    
-
-
-<!-- ------------------ PROPOSAL ENQUIRY MODAL ---------------  -->
-    <div class="modal fade" id="send-proposal-Modal">
+    </div> `
+    )
+};
+    
+function modalPersonal(){
+    return (
+        `<div class="modal fade" id="send-proposal-Modal">
         <div class="modal-dialog modal-lg modal-dialog-centered modal-width">
             <div class="modal-content form-modal">
                 <!-- Modal body -->
@@ -398,11 +403,13 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>`
+    )
+};
 
-
-<!-- ------------------ APPLY FOR DISTRIBUTERS MODAL ---------------  -->
-    <div class="modal fade" id="apply-distributer-Modal">
+function modalDistributer(){
+    return (
+        `<div class="modal fade" id="apply-distributer-Modal">
         <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
             <div class="modal-content apply-modal">
 
@@ -460,11 +467,13 @@
                 </div>
             </div>
         </div>
-    </div>    
-
-
-<!-- ------------------ COMPANY SEND ENQUIRY MODAL ---------------  -->
-    <div class="modal fade" id="apply-distributer-Modal">
+    </div> `
+    )
+};
+      
+function modalApply(){
+    return (
+        `<div class="modal fade" id="apply-distributer-Modal">
         <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
             <div class="modal-content apply-modal">
 
@@ -522,5 +531,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>`
+    )
+};
+    
+
+
+export {modalLoaded, modalCategories, modalPersonal, modalDistributer, modalApply};
+
 

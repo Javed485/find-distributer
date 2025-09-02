@@ -1,12 +1,12 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
     
 <!-- My Distributer Content -->
 <section class="bodySec">
     <div class="container">
         
         <!-- Navbar -->
-        <?php include'layout/second-navbar.php'; ?>
+        <?html include'layout/second-navbar.html'; ?>
         
         <!-- Profile Form -->
         <div class="formContainer m-padding">
@@ -140,7 +140,7 @@
 
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>
 
 
 

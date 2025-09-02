@@ -1,12 +1,12 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
 
 <!-- User Profile -->
 <section class="bodySec">
     <div class="container">
         
         <!-- Navbar -->
-        <?php include'layout/second-navbar.php'; ?>
+        <?html include'layout/second-navbar.html'; ?>
             
         <!-- Profile Form -->
         <div class="formSection">
@@ -106,4 +106,4 @@
 </section>
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>

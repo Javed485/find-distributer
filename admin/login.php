@@ -1,5 +1,5 @@
 <!-- Header -->
-<?php include'layout/header.php'; ?>
+<?html include'layout/header.html'; ?>
 
 <!-- Post Your Requirement -->
 <section class="bodySec">
@@ -35,14 +35,14 @@
                         <div class="FormGroup">
                             <input type="submit" id="submit" name="submit" class="signbtn" value="Sign In">
                         </div>
-                        <p class="forgotPass"> <a href="forget-password.php">Forgot Your Password ?</a> </p>
+                        <p class="forgotPass"> <a href="forget-password.html">Forgot Your Password ?</a> </p>
                     </form>
                 </div>
-                <div class="createAccount text-center"> New User? <a href="../joinfree.php">Join Free</a> </div>
+                <div class="createAccount text-center"> New User? <a href="../joinfree.html">Join Free</a> </div>
             </div>
         </div>
     </div>
 </section>
 
 <!-- Footer -->
-<?php include'layout/footer.php'; ?>
+<?html include'layout/footer.html'; ?>

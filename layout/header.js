@@ -3,7 +3,7 @@ export default function header() {
         `<div class="container py-4">
                 <div class="row d-flex align-items-center">
                     <div class="col-6 col-md-4 col-lg-2 order-md-1">
-                        <a class="logo" target="_self" href="index.php">
+                        <a class="logo" target="_self" href="./index.html">
                             <img alt="Logo" loading="lazy" width="274" height="42" src="assets/images/find.png" />
                         </a>
                     </div>
@@ -20,10 +20,10 @@ export default function header() {
                                     </button>
                                 </div>
                                 <ul class="DRmHK drop-down-cont" id="myDropdown">
-                                    <li><a href="distributer.php" class="text-decoration-none text-dark">
+                                    <li><a href="./distributer.html" class="text-decoration-none text-dark">
                                         <p class=" dd-text Body3R"> Distributors</p></a>
                                     </li>
-                                    <li><a href="franchisor.php" class="text-decoration-none text-dark">
+                                    <li><a href="./franchisor.html" class="text-decoration-none text-dark">
                                         <p class=" dd-text Body3R"> Franchise</p></a>
                                     </li>
                                 </ul>
@@ -60,8 +60,8 @@ export default function header() {
                             <a href="https://bulkvyapar.com/" class="visit-ti-link">Visit Bulkvyapar</a>
                             <div class="header-join">
                                 <div class="loginBar d-md-flex  d-none">
-                                    <a class="items" target="_self" href="signin.php">Sign In</a>
-                                    <a class="items joinFree" target="_self" href="joinfree.php">Join Free</a>
+                                    <a class="items" target="_self" href="./signin.html">Sign In</a>
+                                    <a class="items joinFree" target="_self" href="./joinfree.html">Join Free</a>
                                 </div>
                                 <div class="d-flex justify-content-end d-md-none grid-img">
                                     <img alt="sign in/sign up" loading="lazy" width="20" height="20" decoding="async"
