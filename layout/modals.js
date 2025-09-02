@@ -470,7 +470,6 @@ function modalDistributer() {
     )
 };
       
-    
 
 export {modalLoaded, modalCategories, modalPersonal, modalDistributer};
 

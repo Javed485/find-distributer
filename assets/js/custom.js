@@ -150,8 +150,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let distModal_show = document.querySelector('#distribute_modal_Show');
   let franModal_show = document.querySelector('#franchised_modal_Show');
 
-  distModal.addEventListener("click", function(){
-    console.log('jhjkhjk')
+  distModal.addEventListener("click", function(e){
+    e.preventDefault();
     distModal_show.style.display = 'block';
     franModal_show.style.display = 'none';
 
@@ -159,8 +159,8 @@ document.addEventListener("DOMContentLoaded", () => {
     franModal.classList.remove('sendModal-active');
   });
 
-  franModal.addEventListener("click", function(){
-    console.log('ghgjhgjh')
+  franModal.addEventListener("click", function(e){
+    e.preventDefault();
     distModal_show.style.display = 'none';
     franModal_show.style.display = 'block';
 
@@ -168,6 +168,40 @@ document.addEventListener("DOMContentLoaded", () => {
     distModal.classList.remove('sendModal-active');
   });
 });
+
+
+// CATELOGUE SOCIAL ICONS
+function socialfunction() {
+  document.getElementById("social--icon").classList.toggle("dropdown_icon");
+}
+
+
+// Company Listing Form
+document.addEventListener("DOMContentLoaded", () => {
+  let distCompany = document.querySelector('#company-dist-select');
+  let franCompany = document.querySelector('#company-fran-select');
+  let distCompany_show = document.querySelector('#company-dist');
+  let franCompany_show = document.querySelector('#company-franch');
+
+  distCompany.addEventListener("click", function(e){
+    e.preventDefault();
+    distCompany_show.style.display = 'block';
+    franCompany_show.style.display = 'none';
+
+    distCompany.classList.add('fran-active');
+    franCompany.classList.remove('fran-active');
+  });
+
+  franCompany.addEventListener("click", function(e){
+    e.preventDefault();
+    distCompany_show.style.display = 'none';
+    franCompany_show.style.display = 'block';
+
+    franCompany.classList.add('fran-active');
+    distCompany.classList.remove('fran-active');
+  });
+});
+
 
 
 // Catelogue Navbar Active and Deactive
@@ -182,12 +216,7 @@ let btns = header.getElementsByClassName("tab-title");
   };
 
 
-// CATELOGUE SOCIAL ICONS
-function socialfunction() {
-  document.getElementById("social--icon").classList.toggle("dropdown_icon");
-}
-
-
+  
 // // CATELOGUE PRODUCT SLIDER
 // $(document).ready(function () {
 //   $('#catelogueProduct').slick({
@@ -228,29 +257,6 @@ function socialfunction() {
 //     ]
 //   });
 // });
-
-
-// SELECT ONE OPTION WITH CATEGORY FORM BUTTON
-//     let dist_cate = document.getElementById('dist_cate');
-//     let fran_cate = document.getElementById('fran_cate');
-//     let dist_form_cate = document.getElementById('distribute_form_cate');
-//     let fran_form_cate = document.getElementById('franchised_form_cate');
-
-//     dist_cate.addEventListener("click", function () {
-//         dist_form_cate.style.display = 'block';
-//         fran_form_cate.style.display = 'none';
-
-//         dist_cate.classList.add('fran-active');
-//         fran_cate.classList.remove('fran-active');
-//     });
-
-//     fran_cate.addEventListener("click", function () {
-//         dist_form_cate.style.display = 'none';
-//         fran_form_cate.style.display = 'block';
-
-//         fran_cate.classList.add('fran-active');
-//         dist_cate.classList.remove('fran-active');
-//     });
 
 
 

@@ -37,4 +37,3 @@ categoryModalDiv.innerHTML = modalCategories();
 let sendProposalModalDiv = document.querySelector('.sendproposalmodal');
 sendProposalModalDiv.innerHTML = modalPersonal();
 
-
