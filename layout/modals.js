@@ -72,8 +72,7 @@ function modalLoaded(){
     </div>`
     )
 };
-
-function modalCategories(){
+function modalCategories() {
     return (
         ` <div class="modal fade" id="cat-Modal">
         <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
@@ -294,7 +293,7 @@ function modalCategories(){
     )
 };
     
-function modalPersonal(){
+function modalPersonal() {
     return (
         `<div class="modal fade" id="send-proposal-Modal">
         <div class="modal-dialog modal-lg modal-dialog-centered modal-width">
@@ -311,7 +310,7 @@ function modalPersonal(){
                         </div>
                     </div>
                     <div class="d-flex bwmdfO mt-3 mb-2">
-                        <p class="fDTEWU fran-active bg-one" id="dist_modal">Distributor</p>
+                        <p class="fDTEWU sendModal-active bg-one" id="dist_modal">Distributor</p>
                         <p class="fDTEWU bg-one ml-3" id="fran_modal">Franchise</p>
                     </div>
 
@@ -407,7 +406,7 @@ function modalPersonal(){
     )
 };
 
-function modalDistributer(){
+function modalDistributer() {
     return (
         `<div class="modal fade" id="apply-distributer-Modal">
         <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
@@ -471,72 +470,8 @@ function modalDistributer(){
     )
 };
       
-function modalApply(){
-    return (
-        `<div class="modal fade" id="apply-distributer-Modal">
-        <div class="modal-dialog modal-dialog-centered cat-dialog-modal">
-            <div class="modal-content apply-modal">
-
-                <!-- Modal Header -->
-                <div class="modal-header">
-                    <h4 class="modal-title comany-title">Company Name</h4>
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                </div>
-                <p class="gOguWP">Post Your Response</p>
-
-                <!-- Modal body -->
-                <div class="modal-body">
-                    <form action="#">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Full Name">
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Company Name">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Mobile No">
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Email Address">
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Pincode">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <input type="text" class="form-control contInput" placeholder="Subject">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control" rows="7" placeholder="Text Message" id="comment"></textarea>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="submit-btn">
-                            <button type="submit" class="joNwBI">Submit</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>`
-    )
-};
     
 
-
-export {modalLoaded, modalCategories, modalPersonal, modalDistributer, modalApply};
+export {modalLoaded, modalCategories, modalPersonal, modalDistributer};
 
 

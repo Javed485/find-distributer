@@ -26,7 +26,11 @@
     <!-- Add the new slick-theme.css if you want the default styling -->
     <link rel="stylesheet" href="assets/css/slick-theme.css">
 </head>
-
+<style>
+    #join_fran_form_show{
+        display: none;
+    }
+</style>
 <body>
 
 <!-- ------------------ START TERM & CONDITIONS ---------------  -->
@@ -42,7 +46,7 @@
                                 </a>
                                 <div class="content-title mb-3">Start your<br> Journey with us.</div>
                                 <div class="content-desc">Discover the world best manufacturers and distributors</div>
-                                 <div class="reviewRow" id="review-sliders">
+                                 <div class="reviewRow" id="review-slider">
                                     <div class="form-testimonial">
                                         <p class="UwXhD t-text">I am extremely satisfied with the services provided by
                                             GetDistributors. Since I joined them, I have received a good number of
@@ -88,7 +92,7 @@
                     </div>  
                     
                     <div class="col-12 d-block d-md-none mobile-title-cont">
-                        <a class="form-link main-link" target="_self" href="index.html">
+                        <a class="form-link main-link" target="_self" href="./index.html">
                             <img alt="get distributers" width="274" height="50" src="assets/images/find.png">
                         </a>
                     </div>
@@ -99,11 +103,11 @@
                             <p class="iOrJHF mb-4">Join free to Get The Best Deals, Exclusive <br> Offers with GetDistributors</p>
                         </div>
                         <div class="d-flex bwmdfO mt-3 mb-2">
-                            <p class="fDTEWU fran-active bg-one" id="dist_form">Distributor</p>
-                            <p class="fDTEWU bg-one ml-3" id="fran_form">Franchise</p>
+                            <p class="fDTEWU fran-active bg-one" id="join_dist_form">Distributor</p>
+                            <p class="fDTEWU bg-one ml-3" id="join_fran_form">Franchise</p>
                         </div>
                         <form action="#" class="homeForm">
-                            <div id="distribute_form_Show">
+                            <div id="join_dist_form_show">
                                 <div class="form-check-inline">
                                     <input type="radio" class="form-check-input radioLabCircle" name="optradio">
                                     <label class="form-check-label">I am looking for distributor</label>
@@ -114,7 +118,7 @@
                                 </div>
                             </div>
                             
-                            <div id="franchised_form_Show">
+                            <div id="join_fran_form_show">
                                 <div class="form-check-inline radio-fran">
                                     <input type="radio" class="form-check-input radioLabCircle" name="optradio">
                                     <label class="form-check-label">I am looking for franchise</label>
@@ -183,7 +187,7 @@
 <script>
 // SLIDER FRANCHISES COMPANIES
     $(document).ready(function () {
-        $('#review-sliders').slick({
+        $('#review-slider').slick({
             infinite: true,
             autoplay: true,
             autoplaySpeed: 2000,
@@ -191,26 +195,26 @@
     });
 
 
-    // let dist_form = document.getElementById('dist_form');
-    // let fran_form = document.getElementById('fran_form');
-    // let dist_form_show = document.getElementById('distribute_form_Show');
-    // let fran_form_show = document.getElementById('franchised_form_Show');
+    let join_dist_form = document.getElementById('join_dist_form');
+    let join_fran_form = document.getElementById('join_fran_form');
+    let join_dist_form_show = document.getElementById('join_dist_form_show');
+    let join_fran_form_show = document.getElementById('join_fran_form_show');
 
-    //     dist_form.addEventListener("click", function () {
-    //         dist_form_show.style.display = 'block';
-    //         fran_form_show.style.display = 'none';
+        join_dist_form.addEventListener("click", function () {
+            join_dist_form_show.style.display = 'block';
+            join_fran_form_show.style.display = 'none';
 
-    //         dist_form.classList.add('fran-active');
-    //         fran_form.classList.remove('fran-active');
-    //     });
+            join_dist_form.classList.add('fran-active');
+            join_fran_form.classList.remove('fran-active');
+        });
 
-    //     fran_form.addEventListener("click", function () {
-    //         dist_form_show.style.display = 'none';
-    //         fran_form_show.style.display = 'block';
+        join_fran_form.addEventListener("click", function () {
+            join_dist_form_show.style.display = 'none';
+            join_fran_form_show.style.display = 'block';
 
-    //         fran_form.classList.add('fran-active');
-    //         dist_form.classList.remove('fran-active');
-    //     });
+            join_fran_form.classList.add('fran-active');
+            join_dist_form.classList.remove('fran-active');
+        });
 
 </script>
     

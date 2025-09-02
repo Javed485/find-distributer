@@ -863,6 +863,15 @@ body {
     font-weight: 500;
 }
 
+.bwmdfO .bg-one.sendModal-active {
+    background-image: url("../images/dummy/sub-head/checked.png");
+    color: #323a43;
+    border: 1px solid #68778d;
+    border-radius: 100px;
+    background-color: rgba(185, 181, 227, 0.4);
+    font-weight: 500;
+}
+
 .bwmdfO .bg-one {
     background-image: url("../images/dummy/sub-head/not-checked.png");
     background-repeat: no-repeat;
